@@ -1,4 +1,3 @@
-
 $(document).ready(function () {
   const cityName = '';
   const recentSearchList = document.querySelector('#recentSearchList');
