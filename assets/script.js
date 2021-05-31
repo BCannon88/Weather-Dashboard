@@ -3,7 +3,7 @@ $(document).ready(function () {
   const recentSearchList = document.querySelector('#recentSearchList');
   let searchedCities = [];
 
-  const currentDay = moment().format('MMMM Do, YYYY');
+  const currentDay = moment().format('LLL');
   $('#currentDay').text(currentDay);
 
   const dayTwo = moment()
