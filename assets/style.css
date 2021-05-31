@@ -4,9 +4,7 @@
     box-sizing: border-box;
   }
 
-  body {
-    background-color: rgb(12, 5, 48);
-  }
+  
   
   /* The navigation bar */
   .navbar {
@@ -84,6 +82,11 @@
     background: linear-gradient(to left, rgba(50, 0, 105, 1), rgba(0, 36, 97, 0.71));
     color: white;
     border: 1px solid #4682B4;
+  }
+
+  section {
+    font-size: xx-large;
+    font-weight: bolder;
   }
   
   .btn {
