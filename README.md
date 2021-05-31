@@ -1,6 +1,11 @@
 # Weather-Dashboard
 A Weather Dashboard
 
+ https://bcannon88.github.io/Weather-Dashboard/
+
+ https://github.com/BCannon88/Weather-Dashboard
+
+ 
 On this weeks challenge, we are tasked with creating a Weather Dashboard which populates a 5 day forecast.
 
 Open Weather Map was used to access current weather records as well as moment.js for the dates.
