@@ -84,9 +84,8 @@
     border: 1px solid #4682B4;
   }
 
-  section {
+  .font-weight-bold {
     font-size: xx-large;
-    font-weight: bolder;
   }
   
   .btn {
